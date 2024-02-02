@@ -1,7 +1,7 @@
 # Dynamic Memory Allocation Simulation
 
 ## Overview
-This project, developed by Hammad Shahid, presents a custom implementation of dynamic memory allocation functions, `malloc` and `free`, using a free list approach. Aimed at demonstrating the underlying mechanisms of memory management in C programming, the project offers a practical exploration of managing heap memory efficiently.
+This project, developed by me, presents a custom implementation of dynamic memory allocation functions, `malloc` and `free`, using a free list approach. Aimed at demonstrating the underlying mechanisms of memory management in C programming, the project offers a practical exploration of managing heap memory efficiently.
 
 ## Features
 - **Custom Malloc Implementation:** Utilizes a free list to allocate memory blocks dynamically, ensuring efficient space utilization.
